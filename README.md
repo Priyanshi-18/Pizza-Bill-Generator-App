@@ -33,15 +33,16 @@ Features
   
      .Additional Cheese: 100 Ksh
   
-     .Calculate Cost of Deluxe Pizza:
+2.Calculate Cost of Deluxe Pizza:
 
-2.Vegetarian: 400 Ksh
-  .Non-Vegetarian: 450 Ksh
+     .Vegetarian: 400 Ksh
+     
+     .Non-Vegetarian: 450 Ksh
   
-  .Extra Cheese and Toppings included
+     .Extra Cheese and Toppings included
 
 3.Takeaway Charges:
 
-  .Packaging: 50 Ksh
+     .Packaging: 50 Ksh
 
 
