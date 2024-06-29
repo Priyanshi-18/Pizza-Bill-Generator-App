@@ -23,30 +23,20 @@ The Pizza Bill Generator System simulates a restaurant scenario where two types 
 
 Features
 
-Calculate Cost of Normal Pizza:
+1.Calculate Cost of Normal Pizza:
 
-Vegetarian: 300 Ksh
-Non-Vegetarian: 350 Ksh
-Additional Extra Toppings: 100 Ksh each
-Additional Cheese: 100 Ksh
-Calculate Cost of Deluxe Pizza:
+.Vegetarian: 300 Ksh
+.Non-Vegetarian: 350 Ksh
+.Additional Extra Toppings: 100 Ksh each
+.Additional Cheese: 100 Ksh
+.Calculate Cost of Deluxe Pizza:
 
-Vegetarian: 400 Ksh
-Non-Vegetarian: 450 Ksh
-Extra Cheese and Toppings included
-Takeaway Charges:
+2.Vegetarian: 400 Ksh
+.Non-Vegetarian: 450 Ksh
+.Extra Cheese and Toppings included
 
-Packaging: 50 Ksh
-Usage
-To use the Pizza Bill Generator System, follow these steps:
+3.Takeaway Charges:
 
-Clone the repository to your local machine:
-git clone https://github.com/your-username/pizza-bill-generator.git
-2Navigate to the project directory:
+.Packaging: 50 Ksh
 
-cd pizza-bill-generator
-3Compile and run the Java program:
 
-javac Main.java
-java Main
-Follow the prompts in the terminal to select pizza type, preferences, and packaging choice.
