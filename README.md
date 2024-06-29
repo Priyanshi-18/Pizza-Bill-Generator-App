@@ -25,15 +25,15 @@ Features
 
 1.Calculate Cost of Normal Pizza:
 
-  .Vegetarian: 300 Ksh
+     .Vegetarian: 300 Ksh
 
-  .Non-Vegetarian: 350 Ksh
+     .Non-Vegetarian: 350 Ksh
   
-  .Additional Extra Toppings: 100 Ksh each
+     .Additional Extra Toppings: 100 Ksh each
   
-  .Additional Cheese: 100 Ksh
+     .Additional Cheese: 100 Ksh
   
-  .Calculate Cost of Deluxe Pizza:
+     .Calculate Cost of Deluxe Pizza:
 
 2.Vegetarian: 400 Ksh
   .Non-Vegetarian: 450 Ksh
